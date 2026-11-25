@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+
+# Datos pesados (se quedan en el NAS)
+data/
+*.las
+*.csv
+*.xlsx
+*.segy
+*.sgy
+
+# Windows
+Thumbs.db
+desktop.ini
